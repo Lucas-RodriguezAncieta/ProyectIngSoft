@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "ffa8c64f6ab7e694ac8cd0a5dc21a08809ae110c",
     "author": "Lucas-RodriguezAncieta",
     "commit": {
       "date": "2025-11-12T22:51:05.000Z",
       "message": "funcniona el actions?",
-      "url": "https://github.com/Lucas-RodriguezAncieta/ProyectIngSoft/commit/HEAD"
+      "url": "https://github.com/Lucas-RodriguezAncieta/ProyectIngSoft/commit/ffa8c64f6ab7e694ac8cd0a5dc21a08809ae110c"
     },
     "stats": {
       "total": 370,
       "additions": 352,
       "deletions": 18,
+      "date": "2025-11-12"
+    },
+    "coverage": 36.36,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-11-12T22:54:54.000Z",
+      "message": "funcniona el actions(verde)?",
+      "url": "https://github.com/Lucas-RodriguezAncieta/ProyectIngSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 0,
+      "deletions": 9,
       "date": "2025-11-12"
     },
     "coverage": 36.36,
