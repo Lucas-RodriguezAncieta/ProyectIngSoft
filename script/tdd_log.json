@@ -1,0 +1,16 @@
+[
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1762987821990,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "funcniona el actions?",
+    "commitTimestamp": 1762987867148,
+    "testId": 0
+  }
+]
